@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Hạ Long Bay",
+        "title": "Ha Long Bay - A World Natural Wonder",
+        "image": "https://i.pinimg.com/736x/46/eb/fd/46ebfd32ea108aa61809f3c3d9189bc6.jpg",
+        "description": "With thousands of majestic limestone islands rising from emerald waters, Ha Long Bay is one of Vietnam's most stunning destinations, recognized as a UNESCO World Heritage Site.",
+        "details": "With thousands of majestic limestone islands rising from emerald waters, Ha Long Bay is one of Vietnam's most stunning destinations and a UNESCO World Heritage Site. Located in Quang Ninh Province, Ha Long Bay boasts over 1,600 islands and islets, each with its own unique shape. Enchanting caves such as Sung Sot Cave and Dau Go Cave, along with breathtaking beaches like Bai Chay and Ti Top Island, make this a must-visit location. Additionally, visitors can enjoy exciting activities such as kayaking, cruising through floating fishing villages, or savoring the region’s fresh and delicious seafood"
+    },
+    {
+        "id": 2,
+        "name": "Phu Quoc",
+        "title": "Phu Quoc - The Pearl Island of Vietnam",
+        "image": "https://i.pinimg.com/736x/12/b5/3a/12b53a18b8df7f08d727f2acd5a18926.jpg",
+        "description": "Famous for its white sandy beaches, crystal-clear waters, and luxury resorts, Phu Quoc is the perfect destination to enjoy a wonderful vacation amidst nature.",
+        "details": "Famous for its white sandy beaches, crystal-clear waters, and luxury resorts, Phu Quoc is the perfect destination to enjoy a wonderful vacation amidst nature. As Vietnam's largest island, located in Kien Giang Province, Phu Quoc is not only home to stunning beaches like Sao Beach, Long Beach, and Khem Beach but also attracts visitors with its pristine forests, Tranh Stream, and Ham Ninh fishing village. Travelers can experience activities such as snorkeling, sea fishing, or exploring the local culture through fish sauce factories, pepper farms, and bee farms. Especially, Phu Quoc is a food lover’s paradise, offering specialties like Ham Ninh crab, herring salad, and the famous Bun Quay noodle dish."
+    },
+    {
+        "id": 3,
+        "name": "Hoi An",
+        "title": "Hoi An - The Ancient Town of a Thousand Years of Heritage",
+        "image": "https://i.pinimg.com/736x/b4/15/5e/b4155e775298594447247667927c510a.jpg",
+        "description": "With its narrow streets, moss-covered rooftops, and the poetic Hoai River, Hoi An is a must-visit destination to explore Vietnam's traditional culture and cuisine.",
+        "details": "With its narrow streets, moss-covered rooftops, and the poetic Hoai River, Hoi An is a must-visit destination to explore Vietnam's traditional culture and cuisine. Located in Quang Nam Province, Hoi An is an ancient town that was once a bustling trading port in the 16th and 17th centuries. Visitors can stroll along its stone-paved streets, admire the iconic Japanese Covered Bridge, the Fujian Assembly Hall, and the historic Tan Ky Old House, or release floating lanterns on the Hoai River in the evening. Hoi An is also renowned for its exceptional cuisine, featuring dishes like Cao Lau, Mi Quang, and the famous Phuong Banh Mi. It is the perfect place to rent an Ao Dai and take stunning photos with vibrant lanterns."
+    }
+]

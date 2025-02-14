@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Vịnh Hạ Long",
+        "title": "Vịnh Hạ Long - Kỳ Quan Thiên Nhiên Thế Giới",
+        "image": "https://i.pinimg.com/736x/46/eb/fd/46ebfd32ea108aa61809f3c3d9189bc6.jpg",
+        "description": "Với hàng ngàn đảo đá vôi hùng vĩ giữa làn nước trong xanh, Vịnh Hạ Long là một trong những điểm đến đẹp nhất Việt Nam, được UNESCO công nhận là Di sản Thế giới.",
+        "details": "Với hàng ngàn đảo đá vôi hùng vĩ giữa làn nước trong xanh, Vịnh Hạ Long là một trong những điểm đến đẹp nhất Việt Nam, được UNESCO công nhận là Di sản Thế giới. Nằm ở tỉnh Quảng Ninh, Vịnh Hạ Long nổi bật với hơn 1.600 hòn đảo lớn nhỏ, mỗi đảo mang một hình dáng độc đáo. Những hang động kỳ bí như Hang Sửng Sốt, Hang Đầu Gỗ cùng các bãi biển tuyệt đẹp như Bãi Cháy, Đảo Ti Tốp khiến nơi đây trở thành điểm đến không thể bỏ lỡ. Bên cạnh đó, du khách có thể tham gia các hoạt động thú vị như chèo kayak, du thuyền qua các làng chài nổi, hoặc thưởng thức hải sản tươi ngon đặc trưng của vùng biển."
+    },
+    {
+        "id": 2,
+        "name": "Phú Quốc",
+        "title": "Phú Quốc - Đảo Ngọc Của Việt Nam",
+        "image": "https://i.pinimg.com/736x/12/b5/3a/12b53a18b8df7f08d727f2acd5a18926.jpg",
+        "description": "Nổi tiếng với bãi biển cát trắng, làn nước trong xanh và những khu nghỉ dưỡng đẳng cấp, Phú Quốc là điểm đến lý tưởng để tận hưởng kỳ nghỉ tuyệt vời bên thiên nhiên.",
+        "details": "Nổi tiếng với bãi biển cát trắng, làn nước trong xanh và những khu nghỉ dưỡng đẳng cấp, Phú Quốc là điểm đến lý tưởng để tận hưởng kỳ nghỉ tuyệt vời bên thiên nhiên. Phú Quốc là hòn đảo lớn nhất Việt Nam, thuộc tỉnh Kiên Giang. Không chỉ có những bãi biển tuyệt đẹp như Bãi Sao, Bãi Dài, Bãi Khem, nơi đây còn hấp dẫn du khách bởi rừng nguyên sinh, suối Tranh, và làng chài Hàm Ninh. Du khách có thể trải nghiệm lặn ngắm san hô, câu cá trên biển, hoặc khám phá văn hóa địa phương qua nhà thùng nước mắm, vườn tiêu, trại ong. Đặc biệt, Phú Quốc còn là thiên đường ẩm thực với ghẹ Hàm Ninh, gỏi cá trích, bún quậy trứ danh."
+    },
+    {
+        "id": 3,
+        "name": "Hội An",
+        "title": "Hội An - Phố Cổ Nghìn Năm Văn Hiến",
+        "image": "https://i.pinimg.com/736x/b4/15/5e/b4155e775298594447247667927c510a.jpg",
+        "description": "Với những con phố nhỏ, mái ngói rêu phong và dòng sông Hoài thơ mộng, Hội An là điểm đến không thể bỏ lỡ để khám phá văn hóa và ẩm thực truyền thống Việt Nam.",
+        "details": "Với những con phố nhỏ, mái ngói rêu phong và dòng sông Hoài thơ mộng, Hội An là điểm đến không thể bỏ lỡ để khám phá văn hóa và ẩm thực truyền thống Việt Nam. Hội An là một đô thị cổ nằm ở tỉnh Quảng Nam, từng là một thương cảng sầm uất từ thế kỷ 16-17. Đến đây, du khách có thể dạo bước trên những con đường lát đá, chiêm ngưỡng Chùa Cầu Nhật Bản, Hội Quán Phúc Kiến, Nhà cổ Tấn Ký, và thả đèn hoa đăng trên sông Hoài vào buổi tối. Hội An còn nổi tiếng với ẩm thực đặc sắc như Cao lầu, Mì Quảng, Bánh mì Phượng, và là nơi lý tưởng để thuê áo dài, chụp ảnh với đèn lồng rực rỡ."
+    }
+]
